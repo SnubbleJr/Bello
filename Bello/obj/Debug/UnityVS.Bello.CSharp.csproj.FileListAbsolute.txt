@@ -1,0 +1,9 @@
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Edd\Documents\Bello\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Edd\Documents\Bello\obj\Debug\UnityVS.Bello.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Documents\Bello\obj\Debug\Assembly-CSharp.dll
+C:\Users\Edd\Documents\Bello\obj\Debug\Assembly-CSharp.pdb
